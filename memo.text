@@ -1,0 +1,6 @@
+去網路載git
+git init
+get status
+get add .
+get status
+get commit -m "add test py"
